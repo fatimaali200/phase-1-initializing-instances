@@ -4,7 +4,6 @@ class Breakfast{
         this.drink=drink;
     }
 }
-
 const bfast = new Breakfast("eggs", "juice");
 
 class Lunch{
@@ -14,7 +13,6 @@ class Lunch{
          this.drink=drink;
     }
 }
-
 const newlunch=new Lunch("side salad","broccoli cheddar soup","iced tea");
 
 class Dinner{
